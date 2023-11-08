@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **legendaryalpha4711/legendaryalpha4711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👋 Hi, I’m a senior software engineer.
+- 🌱 I have 7 years of experience in full-stack development.
+- 💞️ I’m currently looking for new opportunity both for contract and full-time opportunity.
+- ⚡ Let's make your idea to live with me.
+- 📫 How to reach me: yixin.zhang121095@gmail.com / +16464010092 
