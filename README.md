@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 🌱 I have 7 years of experience in full-stack development.
 - 💞️ I’m currently looking for new opportunity both for contract and full-time opportunity.
 - ⚡ Let's make your idea to live with me.
-- 📫 How to reach out to me: legendaryalpha110495@gmail.com / Skype (live:.cid.fb02d6ccdfd236aa) / Telegram (legendaryalpha1104)
+- 📫 How to reach out to me: legendaryalpha110495@gmail.com
