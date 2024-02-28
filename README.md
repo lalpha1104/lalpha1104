@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m a senior software engineer.
-- 🌱 I have 5 years of experience in full-stack development.
+- 👋 Hi, I’m a senior full-stack engineer.
+- 🌱 I have 7 years of experience in full-stack development.
 - 💞️ I’m currently looking for new opportunity both for contract and full-time opportunity.
 - ⚡ Let's make your idea to live with me.
 - 📫 How to reach out to me: legendaryalpha110495@gmail.com
