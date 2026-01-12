@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m a senior full-stack engineer.
-- 🌱 I have 7 years of experience in web & mobile app development, web scraping & automation and AI.
+- 👋 Hi, I’m a senior AI Full-Stack Engineer.
+- 🌱 I have 9 years of experience in web & mobile app development, web scraping & automation and AI.
 - 💞️ I’m currently looking for new opportunity both for contract and full-time opportunity.
 - ⚡ Let's make your idea to live with me.
